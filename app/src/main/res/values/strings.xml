@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LadaResurceExample</string>
+    <string name="Button_name">Choose auto</string>
+    <string name="TextViewGranta">Lada Granta</string>
+    <string name="TextViewPriora">Lada Priora</string>
+    <string name="TextViewVesta">Lada Vesta</string>
+    <string-array name="cars">
+        <item>Granta</item>
+        <item>Priora</item>
+        <item>Vesta</item>
+    </string-array>
+</resources>
